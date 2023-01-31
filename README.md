@@ -1,6 +1,6 @@
 # VSCode ROS2 Workspace Template
 
-This template will get you set up using ROS2 with VSCode as your IDE.
+This template will get you set up using ROS2 with VSCode as your IDE. Generated from generated from athackst/vscode_ros2_workspace .
 
 See [how I develop with vscode and ros2](https://www.allisonthackston.com/articles/vscode_docker_ros2.html) for a more in-depth look on how to use this workspace.
 
